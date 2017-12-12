@@ -1,1 +1,6 @@
 # Your Project Members go here, as GitHub usernames
+Group Name: Awkward Armadillos
+Group Members:
+1) Akanksha Aggarwal
+2) Sayali Tambe
+3) Suyash Singh 
